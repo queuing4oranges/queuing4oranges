@@ -2,7 +2,7 @@
 
 I work as a JavaScript developer in the Frontend team at [TeskaLabs](https://teskalabs.com/)  in Prague. In my free time, I like to focus on personal projects to develop and train my skills. My background is in linguistics and teaching, but after years in education, I wanted to try something new. Since coding was something I enjoyed as a hobby, I decided to turn it into a career by enrolling in the data4you bootcamp.
 
-The bootcamp gave me a solid foundation, so I started looking for opportunities to build on my skills. One of my favorite projects — and the one I devote most of my free time to — is a platform for queer women in Prague [lesbotoc.cz](https://www.lesbotoc.cz/). It not only promotes events but also includes a custom CMS for managing content like events, contacts, and images. This project has been a rewarding way to combine my passion for tech with my desire to create something meaningful for the community.
+The bootcamp gave me a solid foundation, so I started looking for opportunities to build on my skills. One of my favorite projects — and the one I devote most of my free time to — is a platform for queer women in Prague [lesbotoc.cz](https://lesbotoc.queuing4oranges.com/). It not only promotes events but also includes a custom CMS for managing content like events, contacts, and images. This project has been a rewarding way to combine my passion for tech with my desire to create something meaningful for the community.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
