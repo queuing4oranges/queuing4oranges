@@ -2,7 +2,7 @@
 
 I work as a FE developer / Integration Specialist at [Luigi's Box](https://luigisbox.com/)  in Prague. In my free time, I like to focus on personal projects to develop and train my skills. My background is in linguistics and teaching, but after years in education, I wanted to try something new. Since coding was something I enjoyed as a hobby, I decided to turn it into a career by enrolling in the data4you bootcamp.
 
-The bootcamp gave me a solid foundation, so I started looking for opportunities to build on my skills. One of my favorite projects — and the one I devoted most of my free time to — is a platform for queer women in Prague for the Lesbotoc organisation (https://tb01.queuing4oranges.com/) (2023-2025, now hosted on my testbed for showcasing. In the last year, I also created a website for my friend's choir in VueJS which can be visited [here](https://dacapo-chor.de//). 
+The bootcamp gave me a solid foundation, so I started looking for opportunities to build on my skills. One of my favorite projects — and the one I devoted most of my free time to — is a platform for queer women in Prague for the Lesbotoc organisation (2023-2025, now hosted on my [testbed](https://tb01.queuing4oranges.com/) for showcasing). In the last year, I also created a website for my friend's choir in VueJS which can be visited [here](https://dacapo-chor.de//). 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
